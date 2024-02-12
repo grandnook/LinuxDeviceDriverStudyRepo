@@ -12,3 +12,5 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [3回目: システムコールハンドラとドライバの登録(動的な方法)](https://qiita.com/iwatake2222/items/6b02494a3668f79800e6)
 
+[4回目: read/writeの実装とメモリのお話](https://qiita.com/iwatake2222/items/26d5f7f4894ccc4ce227)
+
