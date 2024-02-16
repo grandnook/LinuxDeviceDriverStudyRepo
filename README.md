@@ -14,3 +14,5 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [4回目: read/writeの実装とメモリのお話](https://qiita.com/iwatake2222/items/26d5f7f4894ccc4ce227)
 
+[5回目: ラズパイ用のGPIOデバドラの実装](https://qiita.com/iwatake2222/items/cd1d7734c8911830386d)
+
