@@ -16,3 +16,5 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [5回目: ラズパイ用のGPIOデバドラの実装](https://qiita.com/iwatake2222/items/cd1d7734c8911830386d)
 
+[6回目: ioctlの実装](https://qiita.com/iwatake2222/items/ade0a73d4c05fc7961d3)
+
