@@ -18,3 +18,5 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [6回目: ioctlの実装](https://qiita.com/iwatake2222/items/ade0a73d4c05fc7961d3)
 
+[7回目: procfs用インタフェース](https://qiita.com/iwatake2222/items/548444999d2dfdc06f46)
+
