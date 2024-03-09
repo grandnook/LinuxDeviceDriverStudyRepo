@@ -20,3 +20,6 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [7回目: procfs用インタフェース](https://qiita.com/iwatake2222/items/548444999d2dfdc06f46)
 
+[8回目: debugfs用インタフェース](https://qiita.com/iwatake2222/items/1ef4b629f9b9bab4d222)
+
+
