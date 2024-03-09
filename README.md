@@ -22,4 +22,6 @@ Github: https://github.com/iwatake2222/DeviceDriverLesson
 
 [8回目: debugfs用インタフェース](https://qiita.com/iwatake2222/items/1ef4b629f9b9bab4d222)
 
+[9回目: 他のカーネルモジュールの関数を呼ぶ / GPIO制御関数を使う](https://qiita.com/iwatake2222/items/e92a950a2cf57d1a3ded)
 
+残りはスキップします．
